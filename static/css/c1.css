@@ -1,0 +1,13 @@
+h1{
+    background-color: greenyellow;
+    text-shadow: 0 0 10px goldenrod;
+    padding: 50px;
+    
+    
+}
+img
+{
+   padding: 10px; 
+   width: 700px;
+   border: 10px solid black;
+}
